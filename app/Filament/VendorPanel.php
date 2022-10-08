@@ -13,5 +13,5 @@ class VendorPanel extends ContextManager
 
     protected static ?string $auth = 'vendor';
 
-    protected static ?string $path = 'vendor';
+    protected static ?string $path = '/';
 }
